@@ -1,0 +1,123 @@
+Fecha: 15/5/2023 - Hora: 20:35:33 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:36:52 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:37:07 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:37:18 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:37:30 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:37:41 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:37:50 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:37:58 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:38:07 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:38:15 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:38:23 - Metodo: NEW PRODUCT CREATED
+Fecha: 15/5/2023 - Hora: 20:38:31 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:39:36 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:39:50 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:40:12 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:40:21 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:41:00 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:41:03 - Metodo: GET PRODUCT BY ID
+Fecha: 15/5/2023 - Hora: 20:41:09 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:41:29 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:41:34 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:42:08 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:42:14 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:42:35 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:42:40 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:43:02 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:43:07 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:43:24 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:43:27 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:43:50 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:43:55 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:44:41 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:45:03 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:45:34 - Metodo: UPDATE PRODUCT
+Fecha: 15/5/2023 - Hora: 20:45:38 - Metodo: GET PRODUCT BY ID
+Fecha: 15/5/2023 - Hora: 20:45:43 - Metodo: GET PRODUCTS
+Fecha: 15/5/2023 - Hora: 20:48:02 - Metodo: GET CARTS
+Fecha: 15/5/2023 - Hora: 20:48:20 - Metodo: GET CART BY ID
+Fecha: 15/5/2023 - Hora: 20:48:59 - Metodo: GET CART BY ID
+Fecha: 15/5/2023 - Hora: 21:12:48 - Metodo: GET CART BY ID
+Fecha: 15/5/2023 - Hora: 22:09:08 - Metodo: GET CART BY ID
+Fecha: 16/5/2023 - Hora: 00:56:03 - Metodo: NEW PRODUCT CREATED
+Fecha: 16/5/2023 - Hora: 00:57:15 - Metodo: GET PRODUCTS
+Fecha: 16/5/2023 - Hora: 00:58:36 - Metodo: NEW PRODUCT CREATED
+Fecha: 16/5/2023 - Hora: 00:58:59 - Metodo: NEW PRODUCT CREATED
+Fecha: 16/5/2023 - Hora: 01:00:14 - Metodo: GET PRODUCTS
+Fecha: 16/5/2023 - Hora: 01:01:01 - Metodo: NEW PRODUCT CREATED
+Fecha: 16/5/2023 - Hora: 01:01:16 - Metodo: NEW PRODUCT CREATED
+Fecha: 16/5/2023 - Hora: 01:03:28 - Metodo: NEW PRODUCT CREATED
+Fecha: 16/5/2023 - Hora: 23:59:51 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 00:00:30 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 00:08:31 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 00:08:39 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:10:17 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 00:10:25 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:13:30 - Metodo: ADD PRODUCTS TO CART
+Fecha: 17/5/2023 - Hora: 00:13:39 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:19:09 - Metodo: EMPTY CART
+Fecha: 17/5/2023 - Hora: 00:19:15 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 00:19:31 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 00:20:41 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:21:52 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 00:21:54 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 00:21:55 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 00:21:56 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 00:22:03 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:25:47 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:35:26 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:53:56 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 00:54:29 - Metodo: ADD PRODUCTS TO CART
+Fecha: 17/5/2023 - Hora: 00:57:41 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:00:07 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:05:04 - Metodo: UPDATE PRODUCT QUANTITY
+Fecha: 17/5/2023 - Hora: 01:05:15 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:05:45 - Metodo: GET PRODUCTS DETAILS IN CART
+Fecha: 17/5/2023 - Hora: 01:06:38 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:07:08 - Metodo: EMPTY CART
+Fecha: 17/5/2023 - Hora: 01:07:27 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 01:08:02 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 01:08:16 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 01:08:24 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 01:08:30 - Metodo: ADD PRODUCT IN CART
+Fecha: 17/5/2023 - Hora: 01:08:37 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:11:39 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:12:01 - Metodo: UPDATE PRODUCT QUANTITY
+Fecha: 17/5/2023 - Hora: 01:12:08 - Metodo: GET CART BY ID
+Fecha: 17/5/2023 - Hora: 01:39:29 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 19:59:06 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 19:59:34 - Metodo: PRODUCT DELETED
+Fecha: 17/5/2023 - Hora: 19:59:40 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 19:59:54 - Metodo: PRODUCT DELETED
+Fecha: 17/5/2023 - Hora: 19:59:59 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 20:00:11 - Metodo: PRODUCT DELETED
+Fecha: 17/5/2023 - Hora: 20:00:15 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 20:00:26 - Metodo: PRODUCT DELETED
+Fecha: 17/5/2023 - Hora: 20:00:40 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 20:02:43 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:01:32 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:01:39 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:02:11 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:02:15 - Metodo: GET PRODUCT BY ID
+Fecha: 17/5/2023 - Hora: 21:02:35 - Metodo: GET PRODUCT BY ID
+Fecha: 17/5/2023 - Hora: 21:02:40 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:02:54 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:03:04 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:03:32 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:05:33 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:05:41 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:06:58 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:08:31 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:23:17 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:23:36 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:24:01 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 21:28:54 - Metodo: GET PRODUCTS
+Fecha: 17/5/2023 - Hora: 21:29:04 - Metodo: GET CARTS
+Fecha: 17/5/2023 - Hora: 22:51:31 - Metodo: ADD PRODUCTS TO CART
+Fecha: 20/5/2023 - Hora: 17:35:24 - Metodo: ADD PRODUCTS TO CART
+Fecha: 20/5/2023 - Hora: 17:37:51 - Metodo: ADD PRODUCTS TO CART
+Fecha: 20/5/2023 - Hora: 17:38:42 - Metodo: ADD PRODUCTS TO CART
+Fecha: 20/5/2023 - Hora: 17:41:30 - Metodo: ADD PRODUCTS TO CART
+Fecha: 20/5/2023 - Hora: 17:42:20 - Metodo: ADD PRODUCTS TO CART
+Fecha: 21/5/2023 - Hora: 19:16:14 - Metodo: ADMIN LOGIN
+Fecha: 22/5/2023 - Hora: 18:49:44 - Metodo: ADMIN LOGIN

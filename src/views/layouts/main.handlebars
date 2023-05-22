@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{@root.title}}</title>
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+    <header>
+<nav>
+    <div>
+        <p class="navName">EL EMPORIO DEL JARDIN</p>
+    </div>
+    <ul>
+    <li><a href="/">HOME</a></li>
+    <li><a href="/products">PRODUCTOS</a></li>
+    <li><a href="/carts/645bfaa4a2ea00536a2519d3">CARRITO</a></li>
+    </ul>
+    <div>
+        <p class="profile">{{user.name}}</p>
+    </div>
+</nav>
+</header>
+    {{{body}}}
+    <footer>El emporio del jardin #Copyright</footer>
+</body>
+</html>

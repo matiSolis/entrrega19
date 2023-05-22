@@ -1,0 +1,202 @@
+[
+	{
+		"title": "Maceta 5lt",
+		"description": "Maceta bolsa soplada 5lt.",
+		"category": "Macetas",
+		"price": 150,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "M5",
+		"stock": 100
+	},
+	{
+		"title": "Maceta 10lt",
+		"description": "Maceta bolsa soplada 10lt.",
+		"category": "Macetas",
+		"price": 275,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "M10",
+		"stock": 150
+	},
+	{
+		"title": "Maceta 20lt",
+		"description": "Maceta bolsa soplada 20lt.",
+		"category": "Macetas",
+		"price": 400,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "M20",
+		"stock": 150
+	},
+	{
+		"title": "Maceta 20lt",
+		"description": "Maceta plastica 20lt.",
+		"category": "Macetas",
+		"price": 600,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "MP20",
+		"stock": 200
+	},
+	{
+		"title": "Bolson de tierra negra 20lt",
+		"description": "Bolson de 20lt tierra negra.",
+		"category": "Tierra",
+		"price": 600,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "TN20",
+		"stock": 30
+	},
+	{
+		"title": "Bolson de tierra 10lt",
+		"description": "Bolson de 10lt tierra preparada para macetas.",
+		"category": "Tierra",
+		"price": 350,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "TM10",
+		"stock": 30
+	},
+	{
+		"title": "Bolson de tierra 20lt",
+		"description": "Bolson de 20lt tierra preparada para macetas.",
+		"category": "Tierra",
+		"price": 600,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "TM20",
+		"stock": 30
+	},
+	{
+		"title": "Pala",
+		"description": "Pala para jardineria 25cm.",
+		"category": "Herramientas",
+		"price": 700,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "P25",
+		"stock": 10
+	},
+	{
+		"title": "Saca yuyos",
+		"description": "Saca yuyos metalico 80cm.",
+		"category": "Herramientas",
+		"price": 1300,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "SY1",
+		"stock": 10
+	},
+	{
+		"title": "Fertilizante 1lt",
+		"description": "Fertilizante 1lt, humus de lombriz",
+		"category": "Fertilizantes y venenos",
+		"price": 800,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "FH1",
+		"stock": 15
+	},
+    {
+		"title": "Pulverizador 500cc",
+		"description": "Pulverizador manual 500cc",
+		"category": "Herramientas",
+		"price": 900,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "PM5",
+		"stock": 15
+	},
+    {
+		"title": "Pulverizador 1lt",
+		"description": "Pulverizador plastico mecanico 1lt",
+		"category": "Herramientas",
+		"price": 2500,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "PMC1",
+		"stock": 8
+	},
+    {
+		"title": "Pulverizador 5lt",
+		"description": "Pulverizador plastico mecanico de 5lt, con caña y manguera",
+		"category": "Herramientas",
+		"price": 7200,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "PMC5",
+		"stock": 5
+	},
+    {
+		"title": "Humus de murcielago 500gr",
+		"description": "Humus de murcielago bolsa 500gr",
+		"category": "Fertilizantes y venenos",
+		"price": 900,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "HM5",
+		"stock": 10
+	},
+    {
+		"title": "Humus de cabra 500gr",
+		"description": "Humus de cabra bolsa 500gr",
+		"category": "Fertilizantes y venenos",
+		"price": 900,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "HC5",
+		"stock": 10
+	},
+    {
+		"title": "Enrraizante 200gr",
+		"description": "Enrraizante en polvo para jardineria, pote 200gr",
+		"category": "Fertilizantes y venenos",
+		"price": 700,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "ERR2",
+		"stock": 8
+	},
+    {
+		"title": "Veneno hormigas",
+		"description": "Veneno liquido para hormigas",
+		"category": "Fertilizantes y venenos",
+		"price": 650,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "VH",
+		"stock": 10
+	},
+    {
+		"title": "Veneno orugas",
+		"description": "Veneno concentrado para orugas, arañas y mosca blanca",
+		"category": "Fertilizantes y venenos",
+		"price": 970,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "VOAM1",
+		"stock": 10
+	},
+    {
+		"title": "Semillas de pasto 1Kg",
+		"description": "Mix de semillas pasto, 9 variedades x 1kg",
+		"category": "Semillas",
+		"price": 3200,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "SP1",
+		"stock": 4
+	},
+    {
+		"title": "Tijera para cerco",
+		"description": "Tijera metalica 50cm, mango ergonomico plastico",
+		"category": "Herramientas",		
+		"price": 5100,
+		"thumbnail": "foto.jpg",
+		"status": true,
+		"code": "TMP",
+		"stock": 3
+	}
+]
